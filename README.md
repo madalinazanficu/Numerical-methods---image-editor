@@ -1,1 +1,1 @@
-# Numerical-methods---image-editor
+# Numerical-methods image-editor
